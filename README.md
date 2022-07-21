@@ -8,3 +8,6 @@
     - Operators
 - Iteration
 - Conditionals
+- Objects, JSON, Arrays
+- Destructuring
+- Functions
