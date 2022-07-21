@@ -79,3 +79,15 @@ let h =45;
 if(h){
     console.log("not", h);
 }
+//Ternary statement
+//ternary operator - ?
+//syntax: condition ? valueIfTrue : valueIfFalse
+let age = 10;
+if(age>=50){
+    console.log("50 or over");
+}else{
+    console.log("under 50");
+}
+
+let tern = age>=50 ? "50 or over" : "under 50";
+console.log(tern, "ternary")
