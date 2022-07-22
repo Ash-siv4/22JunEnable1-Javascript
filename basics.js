@@ -177,4 +177,3 @@ const myFun4 = (t,u) => {
 myFun3("arrow function")
 
 myFun4(3,4)
-
